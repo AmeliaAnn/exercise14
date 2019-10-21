@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Int x: " + x);
         double y = x;
         System.out.println("Double y: "+y);
+        System.out.println("String S: " + S);
     }
 }
